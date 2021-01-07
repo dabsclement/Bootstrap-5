@@ -1,0 +1,23 @@
+.box{
+    padding: 15px;
+    background-color: teal;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.height{
+    height: 400px;
+}
+
+/* class="text-muted" fades a text 
+display-1 to display-6
+lead*/
+
+/* img class="img-fluid" makes the image responsive
+class=img-thumbnail makes the image look like a thumbnail
+
+forms
+label class="form-label"
+
+justify-content-center
+form-control-sm makes the form input field smaller
+btn-block makes a button full width btn-lg */
